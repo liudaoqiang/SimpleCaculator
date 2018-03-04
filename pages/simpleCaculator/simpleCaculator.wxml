@@ -1,0 +1,14 @@
+<view class="container">
+  <view class='add-num'>
+    <input class='add-num-input' value='{{addNumValue1}}' placeholder='请输入被加数' maxlength='8' bindblur='handleAddNumValue1'></input>
+  </view>
+  <view class='add-num'>
+    <input class='add-num-input' value='{{addNumValue2}}' placeholder='请输入加数' maxlength='8' bindblur='handleAddNumValue2'></input>
+  </view>
+  <view class='result-get'>
+    <button class='result-get-button' size='default' type='primary' catchtap='showcaculatorResult'>计算</button>
+  </view>
+  <view class='result'>
+    <view class='result-text'>{{result}}</view>
+  </view>
+</view>

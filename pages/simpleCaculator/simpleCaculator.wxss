@@ -1,0 +1,37 @@
+.container{
+  padding: 4rpx;
+}
+.add-num{
+  width: 100%;
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.add-num-input{
+  width: 100%;
+  height: 96rpx;
+  border-bottom: 2rpx solid gray;
+  text-align: right;
+}
+.result-get{
+  width: 100%;
+}
+.result-get-button{
+  width: 100%;
+  height: 96rpx;
+  line-height: 96rpx;
+}
+.result{
+  width: 100%;
+  background: gray;
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+  border: 2rpx solid gray;
+  border-radius: 10rpx;
+}
+.result-text{
+  width: 100%;
+  height: 96rpx;
+  line-height: 96rpx;
+  text-align: right;
+  vertical-align: 96rpx;
+}

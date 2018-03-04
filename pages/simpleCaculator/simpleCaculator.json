@@ -1,0 +1,8 @@
+{
+  "backgroundColor": "#00ff00",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#ff0000",
+  "navigationBarTitleText": "简单计算器",
+  "navigationBarTextStyle": "black"
+}
